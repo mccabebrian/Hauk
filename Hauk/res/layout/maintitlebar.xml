@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout xmlns:android=
+          "http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="horizontal" android:background="#546e7a"
+	>
+
+	<TextView android:id="@+id/title" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text=""
+		 />
+        <View android:id="@+id/View01" android:layout_width="fill_parent"    
+ 		android:layout_height="fill_parent"  android:layout_toLeftOf="@+id/facebookBtn">
+ 	</View>
+
+	<TextView
+	    android:id="@id/facebookBtn"
+	    android:layout_width="36dp"
+	    android:layout_height="36dp"
+	    android:layout_alignParentTop="true"
+	    android:layout_centerHorizontal="true"
+	    android:clickable="true"
+	    android:color="#000000"
+	    android:text="Hauk" />
+
+	
+</RelativeLayout>

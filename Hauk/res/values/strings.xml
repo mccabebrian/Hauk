@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hauk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_source_list">SourceList</string>
+    <string name="title_activity_third">Third</string>
+    <string name="title_activity_article">Article</string>
+    <string name="title_activity_entryscreen">Hauk(BETA)</string>
+    <string name="title_activity_custom_list">CustomList</string>
+
+</resources>
